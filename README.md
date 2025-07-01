@@ -1,7 +1,7 @@
 # Hi there, I'm Pilar Kukuh Bintang Rachmadi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Data+Scientist+%26+ML+Engineer;Data+Enthusiast;Computer+Science+Student+at+Pakuan+University;Ex-MSIB+Batch+6+at+Startup+Campus" alt="https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=df00bf&width=435&lines=Data+Scientist+%26+ML+Engineer;Data+Enthusiast;Computer+Science+Student+at+Pakuan+University;Ex-MSIB+Batch+6+at+Startup+Campus" alt="https://git.io/typing-svg" />
 </div>
 
 <p align="center">
