@@ -20,14 +20,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate data scientist and final semester Computer Science student with expertise in **Python**, **Machine Learning**, and **Data Analysis**. As an Ex-Data Science & AI Mentee at Startup Campus (MSIB Batch 6), I specialize in transforming complex data into actionable insights.
+I'm a passionate data scientist and a final semester Computer Science student at Pakuan University, specializing in **Python**, **Machine Learning**, and **Data Analysis**. As a former Data Science & AI Mentee at Startup Campus (MSIB Batch 6), I focus on transforming complex data into actionable insights.
 
-- 🔭 **Currently working on:** Advanced ML projects, Computer Vision applications, and Agricultural Technology Research
-- 🌱 **Learning:** Deep Learning, MLOps, YOLOv11, UAV Technology, and Advanced Statistical Modeling
-- 👯 **Looking to collaborate on:** Data Analysis projects, Data Science projects, ML research, and open-source contributions
+- 🔭 **Currently working on:** Advanced machine learning projects, computer vision applications, and research in agricultural technology
+- 🌱 **Currently learning:** Deep learning, MLOps, YOLOv11, UAV technology, and advanced statistical modeling
+- 👯 **Open to collaboration on:** Data analysis, data science, machine learning research, and open-source projects
 - 💬 **Ask me about:** Python, Data Analysis, Machine Learning
 - 📍 **Location:** Bogor & Sukabumi, Indonesia
-- ⚡ **Fun fact:** I love combining statistical modeling with practical business solutions!
+- ⚡ **Fun fact:** I enjoy combining statistical modeling with real-world business solutions!
 
 ---
 
@@ -147,8 +147,8 @@ I'm a passionate data scientist and final semester Computer Science student with
 ## 📝 Latest Blog Posts & Publications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Academic%20Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <a href="https://medium.com/@pilarkbr/segmentasi-pelanggan-menggunakan-rfm-dan-k-means-978f2cfa5ca4"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Academic%20Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 </div>
 
 ### 📰 Blog Articles
@@ -162,12 +162,12 @@ I'm a passionate data scientist and final semester Computer Science student with
 ### 📄 Academic Publications & Research
 | Publication | Status | Journal/Conference | Year |
 |-------------|--------|-------------------|------|
-| 🌴 **OPEFB-Finder: Computer Vision Application for Palm Oil Waste Detection** | 📝 In Review | SINTA 3 Indexed Journal | 2025 |
-| 🚁 **Real-time FFB Maturity Detection using YOLOv11 and UAV Technology** | 🔬 Research Phase | TBD | 2025 |
+| 🌴 **OPEFB-Finder: Computer Vision Application for Palm Oil Waste Detection** | 📝 Under review | SINTA 3 Indexed Journal | 2025 |
+| 🚁 **Real-time FFB Maturity Detection using YOLOv11 and UAV Technology** | 🔬 Research phase | To be determined | 2025 |
 
 ### 🏆 Intellectual Property & Patents
-- 📜 **Patent Application: OPEFB Detection System** - *On process Submitted to HaKI (Hak Kekayaan Intelektual)*
-- 🔬 **Research Innovation in Agricultural Technology** - *Ongoing Development*
+- 📜 **Patent Application: OPEFB Detection System** – *In process, submitted to HaKI (Hak Kekayaan Intelektual)*
+- 🔬 **Research innovation in agricultural technology** – *Ongoing development*
 
 ### 🎯 Research Interests
 - 🤖 **Computer Vision** in Agricultural Applications
@@ -210,5 +210,5 @@ I'm a passionate data scientist and final semester Computer Science student with
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PilarKBR&color=4A6FA5&style=flat-square&label=Profile+Views"/>
   
-  <p><em>⭐ From <a href="https://github.com/PilarKBR">PilarKBR</a> with ❤️</em></p>
+  <p><em>⭐ Copyright <a href="https://github.com/PilarKBR">PilarKBR</a> 2025</em></p>
 </div>
