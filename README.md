@@ -1,7 +1,7 @@
 # Hi there, I'm Pilar Kukuh Bintang Rachmadi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4A6FA5&center=true&vCenter=true&random=true&width=600&lines=Data+Scientist+%26+ML+Engineer;Data+Enthusiast;Computer+Science+Student+at+Pakuan+University;Ex-MSIB+Batch+6+at+Startup+Campus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4A6FA5&center=true&vCenter=true&random=true&width=700&lines=Data+Scientist+%26+ML+Engineer;Data+Enthusiast;Computer+Science+Student+at+Pakuan+University;Ex-MSIB+Batch+6+at+Startup+Campus" alt="Typing SVG" />
 </div>
 
 <p align="center">
