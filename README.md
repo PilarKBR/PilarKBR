@@ -1,8 +1,6 @@
 # Hi there, I'm Pilar Kukuh Bintang Rachmadi! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+| 🔧 **TensorFlow Developer** | DeepLearning.AI | 2024 |ode&weight=500&size=28&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;Computer+Science+Student;Ex-MSIB+Batch+6+at+Startup+Campus;Python+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Data+Scientist+%26+ML+Engineer;Data+Enthusiast;Computer+Science+Student+at+Pakuan+University;Ex-MSIB+Batch+6+at+Startup+Campus)](https://git.io/typing-svg)
 
 <p align="center">
   <em>Final semester Computer Science student at Pakuan University | Ex-Data Science & AI Mentee MSIB Batch 6 at Startup Campus</em>
