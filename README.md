@@ -100,15 +100,15 @@ I'm a passionate data scientist and a final semester Computer Science student at
 - 📸 **OpenCV & Python** for image processing
 - 🏭 **Real-world plantation applications**
 - 📄 **Ongoing Applied HaKI (Hak Kekayaan Intelektual) & SINTA 3 Published Journal**
-- 🔗 [View Project](https://github.com/PilarKBR/OPEFB-Finder) **(Restricted Access)**
+- 🔗 [View Project](https://github.com/PilarKBR/OPEFB-Finder) **(Private Access)**
 
 ### 🌦️ PredWeatherMarkov
 **Weather Prediction System using Markov Chains**
 - ⚡ **C++ backend** for high-performance computation
 - 📱 **Flutter mobile app** for cross-platform interface
 - 📊 **Markov chain models** for weather forecasting
-- 🏆 **Used for Bogor Innovation Awards 2025 Competition (Ongoing)**
-- 🔗 [View Project](https://github.com/PilarKBR/PredWatherMarkov) **(Restricted Access)**
+- 🏆 **Used for Bogor Innovation Awards 2025 Competition**
+- 🔗 [View Project](https://github.com/PilarKBR/PredWatherMarkov)
 
 ### 🎯 Customer Segmentation Using RFM Analysis & K-means
 **Final Project at Startup Campus**
