@@ -100,7 +100,7 @@ I'm a passionate data scientist and a final semester Computer Science student at
 - 📸 **OpenCV & Python** for image processing
 - 🏭 **Real-world plantation applications**
 - 📄 **Ongoing Applied HaKI (Hak Kekayaan Intelektual) & SINTA 3 Published Journal**
-- 🔗 [View Project](https://github.com/rumahpenelitian/OPEFB-Finder) **(Private Access)**
+- 🔗 [View Project](https://github.com/rumahpenelitian/OPEFB-Detection-System)
 
 ### 🌦️ PredWeatherMarkov
 **Weather Prediction System using Markov Chains**
