@@ -94,7 +94,7 @@ I'm a passionate data scientist and a final semester Computer Science student at
 - 📊 **Real-time analytics** for plantation management optimization
 - **Status:** Research & Development Phase
 
-### 🌴 OPEFB-Finder  
+### 🌴 OPEFB-Detection-System  
 **Computer Vision for Palm Oil Waste Detection**
 - 🔍 **Modified Excess Green Index (ExG)** algorithm
 - 📸 **OpenCV & Python** for image processing
@@ -162,7 +162,7 @@ I'm a passionate data scientist and a final semester Computer Science student at
 ### 📄 Academic Publications & Research
 | Publication | Status | Journal/Conference | Year |
 |-------------|--------|-------------------|------|
-| 🌴 **OPEFB-Finder: Computer Vision Application for Palm Oil Waste Detection** | 📝 Under review | SINTA 3 Indexed Journal | 2025 |
+| 🌴 **OPEFB-Detection-System: Computer Vision Application for Palm Oil Waste Detection** | 📝 Under review | SINTA 3 Indexed Journal | 2025 |
 | 🚁 **Real-time FFB Maturity Detection using YOLOv11 and UAV Technology** | 🔬 Research phase | To be determined | 2025 |
 
 ### 🏆 Intellectual Property & Patents
