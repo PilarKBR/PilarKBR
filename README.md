@@ -103,7 +103,7 @@ I'm a passionate data scientist and a final semester Computer Science student at
 - 🔗 [View Project](https://github.com/rumahpenelitian/OPEFB-Detection-System)
 
 #### 📄 HaKI Patent Certificate
-<img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/assets/images/HaKI.jpg" alt="HaKI Certificate Preview" width="350"/>
+<img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI.jpg" alt="HaKI Certificate Preview" width="350"/>
 [View Official Registration](https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=)
 *Official certificate of intellectual property registration for OPEFB-Detection-System.*
 
