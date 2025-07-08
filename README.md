@@ -99,8 +99,13 @@ I'm a passionate data scientist and a final semester Computer Science student at
 - 🔍 **Modified Excess Green Index (ExG)** algorithm
 - 📸 **OpenCV & Python** for image processing
 - 🏭 **Real-world plantation applications**
-- 📄 **Ongoing Applied HaKI (Hak Kekayaan Intelektual) & SINTA 3 Published Journal**
+- 📄 **HaKI (Hak Kekayaan Intelektual) Patent Licensed & SINTA 3 Published Journal**
 - 🔗 [View Project](https://github.com/rumahpenelitian/OPEFB-Detection-System)
+
+#### 📄 HaKI Patent Certificate
+<img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/assets/images/HaKI.jpg" alt="HaKI Certificate Preview" width="350"/>
+[View Official Registration](https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=)
+*Official certificate of intellectual property registration for OPEFB-Detection-System.*
 
 ### 🌦️ PredWeatherMarkov
 **Weather Prediction System using Markov Chains**
