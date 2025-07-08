@@ -106,7 +106,7 @@ I'm a passionate data scientist and a final semester Computer Science student at
 <div align="center">
   <a href="https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=" target="_blank">
     <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P1.jpg" alt="Sertifikat HaKI Halaman 1" width="48.8%" style="margin-right: 2%;">
-    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P1.jpg" alt="Sertifikat HaKI Halaman 2" width="48.8%">
+    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P2.jpg" alt="Sertifikat HaKI Halaman 2" width="48.8%">
   </a>
   <br>
   <em>Official certificate of intellectual property registration for OPEFB-Detection-System.</em>
