@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em> Machine Learning Annotator Intern at NRI Indonesia |🎓 Computer Science Student at Pakuan University (GPA 3.89/4.0) | 🏆 3rd Place IEOM International Conference Winner</em>
+  <em>Machine Learning Annotator Intern at NRI Indonesia | 🎓 Computer Science Student at Pakuan University (GPA 3.89/4.0) | 🏆 3rd Place IEOM International Conference Winner</em>
 </p>
 <p align="center">
   <em>🔬 Associate Data Scientist (BNSP Certified) | 💼 Ex-MSIB Batch 6 at Startup Campus</em>
@@ -135,8 +135,8 @@ A hybrid weather prediction system combining statistical modeling with modern mo
 **Recognition:**
 - 🥉 **3rd Place Winner** - IEOM Undergraduate Student Paper Competition (Sponsored by Siemens)
 - 🎤 **Presented at** - 6th Asia Pacific International Conference on Industrial Engineering and Operations Management, Bali, August 5-7, 2025
-- 🏆 **Co-Authors:** Bandar Anzari, Hagni Wijayanti (Lecturer)
-- 🥇 **Submitted for** - Bogor Innovation Awards 2025
+- 🏆 **Co-Authors:** Bandar Anzari and Hagni Wijayanti (Lecturer)
+- 🥇 **Submitted to** - Bogor Innovation Awards 2025
 
 <details>
 <summary>🏆 <b>View IEOM Award Certificate</b></summary>
@@ -215,12 +215,12 @@ Comprehensive customer analytics project combining RFM methodology with machine 
 High-accuracy housing price prediction model using advanced regression techniques and feature engineering.
 
 **Technical Approach:**
-- 🤖 **XGBoost Regressor** - Gradient boosting ensemble achieving 90.6% R² score
+- 🤖 **XGBoost Regressor** - Gradient boosting ensemble achieving a 90.6% R² score
 - 📊 **Feature Engineering** - Strategic feature creation and transformation
-- 🔍 **Data Preprocessing** - Comprehensive cleaning, encoding, and scaling
+- 🔍 **Data Preprocessing** - Comprehensive data cleaning, encoding, and scaling
 - 📈 **Model Comparison** - Evaluation of multiple regression algorithms
 
-**Performance:** Achieved top-tier accuracy through systematic hyperparameter tuning and feature selection.
+**Performance:** Achieved top-tier accuracy through systematic hyperparameter tuning and strategic feature selection.
 
 ---
 
@@ -288,10 +288,10 @@ High-accuracy housing price prediction model using advanced regression technique
 </table>
 
 ### 💼 Professional Experience
-- � **Machine Learning Annotator Intern** - NRI Indonesia (Oct 2025 - Present)
-  - Data annotation and validation for machine learning model training
-  - Quality assurance for AI datasets
-  - Collaboration with ML engineering team on data preparation pipelines
+- 💼 **Machine Learning Annotator Intern** - NRI Indonesia (Oct 2025 - Present)
+  - Perform data annotation and validation for machine learning model training
+  - Ensure quality assurance for AI datasets
+  - Collaborate with the ML engineering team on data preparation pipelines
 
 ###  Awards & Recognition
 - 🥉 **3rd Place - IEOM Undergraduate Student Paper Competition** (Sponsored by Siemens) - Aug 2025
@@ -310,7 +310,7 @@ High-accuracy housing price prediction model using advanced regression technique
   <a href="https://scholar.google.com/citations?user=77lXKzkAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-  <a href="https://www.researchgate.net">
+  <a href="https://www.researchgate.net/profile/Pilar-Kukuh-Bintang-Rachmadi">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </div>
@@ -321,7 +321,7 @@ High-accuracy housing price prediction model using advanced regression technique
 <tr>
 <th width="60%">Publication</th>
 <th width="15%">Status</th>
-<th width="25%">Venue</th>
+<th width="25%">Venue/Publishers</th>
 </tr>
 
 <tr>
@@ -363,7 +363,7 @@ SINTA 3 Indexed Journal
 🔬 <b>In Progress</b><br>2025
 </td>
 <td>
-To be submitted to International Journal
+To be submitted to Q1 Scopus Journal Index
 </td>
 </tr>
 </table>
@@ -430,7 +430,7 @@ I'm always open to discussing research opportunities, academic collaborations, o
 
 ### 💼 Open for Opportunities
 
-Currently gaining hands-on experience as a **Machine Learning Annotator Intern at NRI Indonesia**, I'm actively seeking full-time opportunities in **Data Science**, **Machine Learning Engineering**, and **AI Research** upon graduation. Whether it's a full-time position, freelance project, or research collaboration, I'd love to hear from you!
+Currently gaining hands-on experience as a **Machine Learning Annotator Intern at NRI Indonesia**, I'm actively seeking full-time opportunities in **Data Science**, **Machine Learning Engineering**, and **AI Research** upon graduation. Whether it's for a full-time position, a freelance project, or research collaboration, I'd love to hear from you!
 
 <br>
 
@@ -481,25 +481,76 @@ Currently gaining hands-on experience as a **Machine Learning Annotator Intern a
 
 ### 🎯 What I'm Looking For
 
-```yaml
-Current Status: Machine Learning Annotator Intern at NRI Indonesia
-Looking For: Full-time Data Scientist | ML Engineer | AI Researcher positions
-Type: Full-time | Contract | Research Collaboration
-Location: Remote | Hybrid | On-site (Jakarta/Bogor area)
-Interests: 
-  - Computer Vision & Image Processing
-  - Business Intelligence & Analytics
-  - Deep Learning Research
-  - MLOps & Production ML Systems
-  - Data Annotation & Quality Assurance
-```
+<table>
+<tr>
+<td width="50%">
+
+**💼 Position Seeking**
+- 🎯 Data Scientist
+- 🤖 Machine Learning Engineer  
+- 🔬 AI Researcher
+- 📊 Data Analyst
+
+</td>
+<td width="50%">
+
+**📍 Work Arrangement**
+- 💼 Full-time positions
+- 📝 Contract opportunities
+- 🤝 Research collaborations
+- 🌐 Remote/Hybrid/On-site
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌟 Current Status**
+- 🏢 ML Annotator Intern at NRI Indonesia
+- 🎓 Final-year CS student (GPA 3.89)
+- 📅 Available: Mid-2026
+
+</td>
+<td width="50%">
+
+**💡 Core Interests**
+- 🖼️ Computer Vision & Image Processing
+- 📊 Business Intelligence & Analytics
+- 🧠 Deep Learning Research
+- 🚀 MLOps & Production Systems
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 💡 Let's Collaborate On
 
-- 🔬 **Research Projects** - Academic papers, innovative algorithms, open-source contributions
-- 🚀 **Startup Ideas** - Data-driven products, AI applications, tech consulting
-- 📊 **Data Analysis** - Business intelligence, predictive analytics, visualization
-- 🎓 **Knowledge Sharing** - Mentoring, workshops, technical writing
+<table>
+<tr>
+<td align="center" width="25%">
+<div style="font-size: 60px;">🔬</div>
+<b>Research Projects</b><br>
+<sub>Academic papers, innovative algorithms, and open-source contributions</sub>
+</td>
+<td align="center" width="25%">
+<div style="font-size: 60px;">🚀</div>
+<b>Startup Ideas</b><br>
+<sub>Data-driven products, AI applications, and tech consulting</sub>
+</td>
+<td align="center" width="25%">
+<div style="font-size: 60px;">📊</div>
+<b>Data Analysis</b><br>
+<sub>Business intelligence, predictive analytics, and visualization</sub>
+</td>
+<td align="center" width="25%">
+<div style="font-size: 60px;">📚</div>
+<b>Knowledge Sharing</b><br>
+<sub>Mentoring, workshops, and technical writing</sub>
+</td>
+</tr>
+</table>
 
 ### 📫 How to Reach Me
 
@@ -516,7 +567,7 @@ Interests:
 </p>
 
 <p align="center">
-  <strong>💼 Open to:</strong> Full-time positions, Freelance projects, Research collaborations, Speaking engagements
+  <strong>💼 Open to:</strong> Full-time positions, freelance projects, research collaborations, and speaking engagements
 </p>
 
 </div>
