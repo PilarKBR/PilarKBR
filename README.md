@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em> Machine Learning Annotator Intern at NRI Indonesia |🎓 Computer Science Student at Pakuan University (GPA 3.89/4.0) | 🏆 3rd Place IEOM International Conference Winner | 📜 HaKI Patent Holder</em>
+  <em> Machine Learning Annotator Intern at NRI Indonesia |🎓 Computer Science Student at Pakuan University (GPA 3.89/4.0) | 🏆 3rd Place IEOM International Conference Winner</em>
 </p>
 <p align="center">
   <em>🔬 Associate Data Scientist (BNSP Certified) | 💼 Ex-MSIB Batch 6 at Startup Campus</em>
@@ -116,42 +116,9 @@ An innovative precision agriculture system leveraging cutting-edge AI and UAV te
 
 ---
 
-### 🌴 OPEFB-Detection-System
-[![Patent](https://img.shields.io/badge/Patent-HaKI%20Licensed-success?style=flat-square)](https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=)
-[![Journal](https://img.shields.io/badge/Journal-SINTA%203%20Published-blue?style=flat-square)](https://github.com/rumahpenelitian/OPEFB-Detection-System)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/rumahpenelitian/OPEFB-Detection-System)
-
-**Computer Vision for Palm Oil Waste Detection**
-
-A patented computer vision system for detecting Oil Palm Empty Fruit Bunch (OPEFB) waste in plantation environments, contributing to sustainable agriculture practices.
-
-**Technical Highlights:**
-- 🔍 **Modified Excess Green Index (ExG)** - Custom algorithm for vegetation analysis
-- 📸 **OpenCV & Python** - Robust image processing pipeline
-- 🏭 **Production-Ready** - Deployed in real-world plantation settings
-- � **Intellectual Property** - Official HaKI patent registration
-- 📄 **Academic Recognition** - Published in SINTA 3 indexed journal
-
-**Achievement:** Successfully obtained intellectual property rights and academic publication.
-
-<details>
-<summary>📄 <b>View HaKI Patent Certificate</b></summary>
-<br>
-<div align="center">
-  <a href="https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=" target="_blank">
-    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P1.jpg" alt="Sertifikat HaKI Halaman 1" width="48%" style="margin-right: 2%;">
-    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P2.jpg" alt="Sertifikat HaKI Halaman 2" width="48%">
-  </a>
-  <br>
-  <em>Official certificate of intellectual property registration (HaKI) from the Indonesian Ministry of Law and Human Rights.</em>
-</div>
-</details>
-
----
-
 ### 🌦️ PredWeatherMarkov
 [![Conference](https://img.shields.io/badge/Conference-IEOM%20APCOMS%202025-green?style=flat-square)](https://ieomsociety.org/bali2025/)
-[![Award](https://img.shields.io/badge/Award-3rd%20Place%20Winner-gold?style=flat-square)](https://ieomsociety.org/bali2025/)
+[![Award](https://img.shields.io/badge/Award-3rd%20Place%20Winner-gold?style=flat-square)](https://ieomsociety.org/documents/awards-bali2025.pdf)
 [![Competition](https://img.shields.io/badge/Competition-Bogor%20Innovation%20Awards-yellow?style=flat-square)](https://github.com/PilarKBR/PredWatherMarkov)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/PilarKBR/PredWatherMarkov)
 
@@ -175,7 +142,7 @@ A hybrid weather prediction system combining statistical modeling with modern mo
 <summary>🏆 <b>View IEOM Award Certificate</b></summary>
 <br>
 <div align="center">
-  <a href="https://ieomsociety.org/bali2025/" target="_blank">
+  <a href="https://ieomsociety.org/documents/awards-bali2025.pdf" target="_blank">
     <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/Undergraduate Student Paper Competition - Bali 2025- 180 -THIRD - ONSITE.jpg" alt="IEOM 3rd Place Award Certificate" width="80%">
   </a>
   <br>
@@ -184,6 +151,40 @@ A hybrid weather prediction system combining statistical modeling with modern mo
   <em>6th Asia Pacific International Conference on Industrial Engineering and Operations Management, Bali, August 5-7, 2025</em>
 </div>
 </details>
+
+---
+
+### 🌴 OPEFB-Detection-System
+[![Patent](https://img.shields.io/badge/Patent-HaKI%20Granted-success?style=flat-square)](https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=)
+[![Journal](https://img.shields.io/badge/Journal-Under%20Review-orange?style=flat-square)](https://github.com/rumahpenelitian/OPEFB-Detection-System)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/rumahpenelitian/OPEFB-Detection-System)
+
+**Computer Vision for Palm Oil Waste Detection**
+
+A patented computer vision system for detecting Oil Palm Empty Fruit Bunch (OPEFB) waste in plantation environments, contributing to sustainable agriculture practices.
+
+**Technical Highlights:**
+- 🔍 **Modified Excess Green Index (ExG)** - Custom algorithm for vegetation analysis
+- 📸 **OpenCV & Python** - Robust image processing pipeline
+- 🏭 **Production-Ready** - Deployed in real-world plantation settings
+- 📜 **Intellectual Property** - Official HaKI patent registration
+- 📄 **Academic Recognition** - Under review for publication in SINTA 3 indexed journal
+
+**Achievement:** Successfully obtained intellectual property rights (HaKI patent granted) and manuscript under peer review for academic publication.
+
+<details>
+<summary>📄 <b>View HaKI Patent Certificate</b></summary>
+<br>
+<div align="center">
+  <a href="https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=" target="_blank">
+    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P1.jpg" alt="Sertifikat HaKI Halaman 1" width="48%" style="margin-right: 2%;">
+    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/HaKI P2.jpg" alt="Sertifikat HaKI Halaman 2" width="48%">
+  </a>
+  <br>
+  <em>Official certificate of intellectual property registration (HaKI) from the Indonesian Ministry of Law and Human Rights.</em>
+</div>
+</details>
+
 
 ---
 
@@ -292,11 +293,11 @@ High-accuracy housing price prediction model using advanced regression technique
   - Quality assurance for AI datasets
   - Collaboration with ML engineering team on data preparation pipelines
 
-### �🏆 Awards & Recognition
+###  Awards & Recognition
 - 🥉 **3rd Place - IEOM Undergraduate Student Paper Competition** (Sponsored by Siemens) - Aug 2025
 - 🏅 **Bogor Innovation Awards 2025** - Finalist
 - 📜 **HaKI Patent Holder** - OPEFB Detection System (Registration No. EC00202484498)
-- 📄 **SINTA 3 Published Author** - Agricultural Computer Vision Research
+- � **Manuscript Under Review** - SINTA 3 Indexed Journal for Agricultural Computer Vision Research
 
 ---
 
@@ -344,11 +345,12 @@ High-accuracy housing price prediction model using advanced regression technique
 <br><em>HaKI patented algorithm for sustainable agriculture</em>
 </td>
 <td align="center">
-📘 <b>Published</b><br>2025
+� <b>Under Review</b><br>2025
 </td>
 <td>
 SINTA 3 Indexed Journal
-<br><a href="https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=">HaKI Certificate</a>
+<br><em>Manuscript under peer review</em>
+<br><a href="https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=">HaKI Patent Granted</a>
 </td>
 </tr>
 
@@ -374,8 +376,6 @@ To be submitted to International Journal
   - Venue: Warmadewa University (UNWAR), Co-hosts: Narotama University & Universitas Pakuan
 - 💼 **Startup Campus Demo Day 2024** - "Customer Segmentation for E-commerce"
   - Presented final capstone project to industry professionals and investors
-- 🌾 **Agricultural Technology Research Forum 2024** - "AI Applications in Palm Oil Industry"
-  - Showcased OPEFB Detection System and its real-world impact
 - 🎯 **Lokpro Camp Batch 1 2024** - AI & Machine Learning Mentor
   - Conducted workshops on Python, Machine Learning fundamentals, and project development
 
@@ -389,13 +389,12 @@ To be submitted to International Journal
 - 🤖 **Computer Vision** - Object detection, image classification, semantic segmentation
 - 📊 **Machine Learning** - Ensemble methods, deep learning, statistical modeling
 - 🚁 **UAV Technology** - Autonomous systems, aerial imaging, precision agriculture
-- 🌾 **Agricultural AI** - Crop monitoring, yield prediction, sustainable farming
 - 📈 **Business Analytics** - Customer intelligence, predictive analytics, data-driven decision making
 
 ### 📜 Intellectual Property
 | Patent/Copyright | Registration Number | Status | Year |
 |------------------|---------------------|--------|------|
-| **OPEFB Detection System** | [EC00202484498](https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=) | ✅ Granted | 2024 |
+| **OPEFB Detection System** | [EC00202484498](https://hakcipta.dgip.go.id/legal/c/N2JjMDVmMjRiN2UyMWJlNmU4ZTY3Zjc3NDI4YTQ0YmI=) | ✅ Granted | 2025 |
 
 ### 🎯 Competition Achievements
 | Competition | Result | Organization | Year |
