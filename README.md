@@ -119,6 +119,7 @@ An innovative precision agriculture system leveraging cutting-edge AI and UAV te
 ### 🌦️ PredWeatherMarkov
 [![Conference](https://img.shields.io/badge/Conference-IEOM%20APCOMS%202025-green?style=flat-square)](https://ieomsociety.org/bali2025/)
 [![Award](https://img.shields.io/badge/Award-3rd%20Place%20Winner-gold?style=flat-square)](https://ieomsociety.org/documents/awards-bali2025.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.46254%2FAP06.20250180-blue?style=flat-square)](https://doi.org/10.46254/AP06.20250180)
 [![Competition](https://img.shields.io/badge/Competition-Bogor%20Innovation%20Awards-yellow?style=flat-square)](https://github.com/PilarKBR/PredWatherMarkov)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/PilarKBR/PredWatherMarkov)
 
@@ -336,6 +337,7 @@ High-accuracy housing price prediction model using advanced regression technique
 <td>
 6th Asia Pacific International Conference on Industrial Engineering and Operations Management (IEOM APCOMS), Bali, Indonesia
 <br><em>Co-Authors: Bandar Anzari, Hagni Wijayanti</em>
+<br><a href="https://doi.org/10.46254/AP06.20250180">📄 DOI: 10.46254/AP06.20250180</a>
 </td>
 </tr>
 
@@ -374,6 +376,7 @@ To be submitted to Q1 Scopus Journal Index
   - **🥉 3rd Place Winner - Undergraduate Student Paper Competition (Sponsored by Siemens)**
   - Co-presented with Bandar Anzari and Hagni Wijayanti
   - Venue: Warmadewa University (UNWAR), Co-hosts: Narotama University & Universitas Pakuan
+  - **📄 Published:** [DOI: 10.46254/AP06.20250180](https://doi.org/10.46254/AP06.20250180)
 - 💼 **Startup Campus Demo Day 2024** - "Customer Segmentation for E-commerce"
   - Presented final capstone project to industry professionals and investors
 - 🎯 **Lokpro Camp Batch 1 2024** - AI & Machine Learning Mentor
