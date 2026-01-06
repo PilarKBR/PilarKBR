@@ -300,7 +300,7 @@ High-accuracy housing price prediction model using advanced regression technique
   <br>
   <em>Official certificate of Associate Data Scientist (Junior/Associate Data Scientist) from BNSP - Indonesian National Professional Certification Authority.</em>
   <br>
-  <em>Certificate No. 63111 2511 6 0010672 2025 | Valid for 3 Years (October 24, 2025)</em>
+  <em>Certificate No. J.1389.00800.2025 | Valid for 3 Years (October 24, 2025)</em>
 </div>
 </details>
 
