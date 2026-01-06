@@ -243,7 +243,8 @@ High-accuracy housing price prediction model using advanced regression technique
 
 #### 🔬 Data Science & Analytics
 - ✅ **Associate Data Scientist**  
-  *BNSP (Badan Nasional Sertifikasi Profesi)* - 2025
+  *BNSP (Badan Nasional Sertifikasi Profesi)* - 2025  
+  [📄 View Certificate](https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/BNSP%20ADS%20P1.jpg)
 - ✅ **Data Science & AI Program**  
   *Startup Campus (MSIB Batch 6)* - 2024
 - ✅ **Google Data Analytics Professional**  
@@ -287,6 +288,21 @@ High-accuracy housing price prediction model using advanced regression technique
 </td>
 </tr>
 </table>
+
+<details>
+<summary>📄 <b>View BNSP Associate Data Scientist Certificate</b></summary>
+<br>
+<div align="center">
+  <a href="https://bnsp.go.id" target="_blank">
+    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/BNSP ADS P1.jpg" alt="BNSP Certificate Page 1" width="48%" style="margin-right: 2%;">
+    <img src="https://raw.githubusercontent.com/PilarKBR/pilarkbr.github.io/main/assets/images/BNSP ADS P2.jpg" alt="BNSP Certificate Page 2" width="48%">
+  </a>
+  <br>
+  <em>Official certificate of Associate Data Scientist (Junior/Associate Data Scientist) from BNSP - Indonesian National Professional Certification Authority.</em>
+  <br>
+  <em>Certificate No. 63111 2511 6 0010672 2025 | Valid for 3 Years (October 24, 2025)</em>
+</div>
+</details>
 
 ### 💼 Professional Experience
 - 💼 **Machine Learning Annotator Intern** - NRI Indonesia (Oct 2025 - Present)
